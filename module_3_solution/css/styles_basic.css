@@ -69,7 +69,7 @@ body {
 
 /** HOME PAGE **/
 
-#main-content {
+#main-content1 {
     width: 92%;
     margin-bottom: 40px;
 }
@@ -87,7 +87,17 @@ body {
     margin-bottom: 1em;
 }
 
-#main-section {
+#main-section1 {
+    background-color: #82d06b;
+    box-shadow: 0 0 50px #0f5900;
+    padding: 30px;
+}
+#main-section2 {
+    background-color: #82d06b;
+    box-shadow: 0 0 50px #0f5900;
+    padding: 30px;
+}
+#main-section3 {
     background-color: #82d06b;
     box-shadow: 0 0 50px #0f5900;
     padding: 30px;
